@@ -13,7 +13,7 @@
 ## Сопутствующие документы:
 - [Отчет о прохождении учебной практики]()
 - [Календарный план прохождения учебной пратики]()
-- [Файлы в формате .docx](https://github.com/sonyadk/feb-practice-21/tree/main/docx "Файлы в формате docx")
+- [Файлы в формате .docx](https://github.com/sonyadk/tech-practice-21/tree/main/docx)
 ------------
 
 ## Задания практики
