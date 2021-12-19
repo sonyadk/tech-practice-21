@@ -32,7 +32,7 @@
 
 ### Вариативные задания
 
-2.1. [В процессе...](https://github.com/sonyadk/tech-practice-21/tree/main/2.1)
+2.1. [Подробно изучить одной из рабочих групп структурного подразделения организации.](https://github.com/sonyadk/tech-practice-21/tree/main/2.1)
 
 2.2. [В процессе...](https://github.com/sonyadk/tech-practice-21/tree/main/2.2)
 
